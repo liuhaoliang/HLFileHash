@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HLFileHash"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "An easy way to calculate file md5."
 
   # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "在iOS开发中解决对文件做哈希的问题."
+  s.description  = "简单地封装，解决在iOS开发中对文件做哈希的问题."
 
   s.homepage     = "https://github.com/liuhaoliang/HLFileHash"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
